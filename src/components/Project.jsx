@@ -11,7 +11,7 @@ const Project = () => {
             <ProjectCard detail={{
               title: "Authorization system",
               img: "image/proj1.png",
-              content: "a front-end build by vue and vuex and a backend build by react, to implement a authorization system",
+              content: "a front-end build by vue and vuex with a backend build by express, to implement a authorization system",
               tech: ["Vue", "Vuex", "Bulma", "Express", "MongoDB", "Mongoose ODM", "Docker"],
               url: "https://github.com/devchristam/vue3-login-system"
             }}/>
