@@ -27,7 +27,7 @@ const Project = () => {
               img: "image/proj3.jpg",
               content: "A personnel website to introduce myself",
               tech: ["React", "TailwindCSS"],
-              url: ""
+              url: "https://github.com/devchristam/my-personnel-website"
             }}/>
           </div>
         </div>
