@@ -7,11 +7,6 @@ const ProjectCard = (props) => {
   }
 
   const displaytech = () => {
-    // let temp = '';
-    // for(let tech of props.detail.tech){
-    //   temp += <span className="mx-1 p-1 bg-green-500 rounded-md">{tech}</span>
-    // }
-    // return temp
     return props.detail.tech.map((obj) => {
       return <span className="flex-grow-0 m-1 p-1 text-white bg-green-500 rounded-md">{obj}</span>
     })
@@ -19,7 +14,7 @@ const ProjectCard = (props) => {
 
   return (
     <div className="max-w-xs w-full">
-      <div className="flex items-center justify-center h-56 bg-white overflow-hidden rounded-t-xl">
+      <div className="flex items-center justify-center h-56 bg-white overflow-hidden rounded-t-xl shadow-lg">
         <img className="object-cover" src={props.detail.img} alt=""/>
       </div>
 
