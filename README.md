@@ -14,7 +14,7 @@ script from Create react app and CRACO
 
 * npm run build
 
-    * create build
+    * create build without source map
 
 * npm run eject
 
