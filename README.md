@@ -1,4 +1,4 @@
-# My personnel website build with React and TailwindCSS
+# My personal website build with React and TailwindCSS
 
 ## Available Scripts
 
