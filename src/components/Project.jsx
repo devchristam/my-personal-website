@@ -23,9 +23,9 @@ const Project = () => {
               url: "https://github.com/devchristam/tailwindcss-react-weather-widget"
             }}/>
             <ProjectCard detail={{
-              title: "Personnel website",
+              title: "Personal website",
               img: "image/proj3.jpg",
-              content: "A personnel website to introduce myself",
+              content: "A personal website to introduce myself",
               tech: ["React", "TailwindCSS"],
               url: "https://github.com/devchristam/my-personnel-website"
             }}/>
