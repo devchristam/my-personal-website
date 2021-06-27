@@ -1,20 +1,19 @@
 # My personal website build with React and TailwindCSS
 
+*this project has been revamp to another [repo](https://github.com/devchristam/nextjs-personal-website) with next.js ssg*
+
 ## Available Scripts
 
 script from Create react app and CRACO
 
-* npm start
+* npm run start
+	*  run development server
 
-    *  run development server
-
-* npm test
-
+* npm run test
     * run test
 
 * npm run build
-
-    * create build without source map
+	* create build without source map
 
 * npm run eject
 
@@ -22,11 +21,8 @@ script from Create react app and CRACO
 ## Using Library
 
 *   Create React App
-
 *   TailwindCSS
-
 *   CRACO
-
 *   Font Awesome for SVG icon
 
 
