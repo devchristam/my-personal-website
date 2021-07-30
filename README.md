@@ -6,17 +6,16 @@
 
 script from Create react app and CRACO
 
-* npm run start
-	*  run development server
+```bash
+# npm run start
+$ run development server
 
-* npm run test
-    * run test
+# npm run test
+$ run test
 
-* npm run build
-	* create build without source map
-
-* npm run eject
-
+# npm run build
+$ create build without source map
+```
 
 ## Using Library
 
