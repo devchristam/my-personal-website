@@ -1,6 +1,6 @@
 # My personal website build with React and TailwindCSS
 
-*this project has been revamp to another [repo](https://github.com/devchristam/nextjs-personal-website) with next.js ssg*
+*this project has been revamp to another [repo](https://github.com/devchristam/devchristamdotcom) with next.js*
 
 ## Available Scripts
 
